@@ -1,0 +1,12 @@
+{
+  "name": "greenwayenscipher",
+  "version": "1.0.0",
+  "description": "A simple AES-256-CBC and RFC2898 encryption & decryption library compatible with Greenway Health's ENS Service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
